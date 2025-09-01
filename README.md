@@ -5,7 +5,7 @@ Users can also view previously generated questions that are stored in a PostgreS
 The app is hosted on AWS and uses Caddy as a reverse proxy.
 
 Address: http://44.201.150.219/ 
-(Backend is currently disabled but can be re‑enabled for demonstrations.)
+(Currently disabled but can be re‑enabled for demonstrations.)
 
 ### Images:
 
